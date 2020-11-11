@@ -1,7 +1,0 @@
-name = "MyLib"
-uuid = "d476a0c5-c23f-479f-b3a2-43f1bb2eb2bc"
-authors = ["Satoshi Terasaki <terasakisatoshi.math@gmail.com>"]
-version = "0.1.0"
-
-[deps]
-JSXGraph = "97e4c2e4-f0cb-461e-a268-312dec255b76"
