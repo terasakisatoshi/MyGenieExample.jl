@@ -1,5 +1,7 @@
+# routes.jl
 using Genie.Router
+using MyLib
 
-route("/") do
-  serve_static_file("welcome.html")
+route("/mylib") do
+  MyLib.example()
 end
