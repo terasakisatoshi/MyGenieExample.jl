@@ -2,6 +2,6 @@
 using Genie.Router
 using MyLib
 
-route("/mylib") do
+route("/") do
   MyLib.example()
 end
